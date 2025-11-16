@@ -1,0 +1,15 @@
+F:\Kata Catalog\100_Dors\bin\Debug\net9.0\100_Dors.exe
+F:\Kata Catalog\100_Dors\bin\Debug\net9.0\100_Dors.deps.json
+F:\Kata Catalog\100_Dors\bin\Debug\net9.0\100_Dors.runtimeconfig.json
+F:\Kata Catalog\100_Dors\bin\Debug\net9.0\100_Dors.dll
+F:\Kata Catalog\100_Dors\bin\Debug\net9.0\100_Dors.pdb
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\100_Dors.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\100_Dors.AssemblyInfoInputs.cache
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\100_Dors.AssemblyInfo.cs
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\100_Dors.csproj.CoreCompileInputs.cache
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\100_Dors.sourcelink.json
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\100_Dors.dll
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\refint\100_Dors.dll
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\100_Dors.pdb
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\100_Dors.genruntimeconfig.cache
+F:\Kata Catalog\100_Dors\obj\Debug\net9.0\ref\100_Dors.dll
